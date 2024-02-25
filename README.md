@@ -13,6 +13,7 @@
 - [Io](https://github.com/ykws/hello-io)
 - [Prolog](https://github.com/ykws/hello-prolog)
 - [Ruby](https://github.com/ykws/hello-ruby)
+- [Scala](https://github.com/ykws/hello-scala)
 - [TypeScript](https://github.com/ykws/hello-typescript)
 
 ## Runtimes
