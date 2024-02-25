@@ -1,6 +1,10 @@
 # A collection of "Hello, world!"
 
+> [!Note]
+> **Learn at least one new language every year.** Different languages solve the same problems in different ways. By learning several different approaches, you can help broaden your thinking and avoid getting stuck in a rut.[^the-programatic-programmer]
+
 ## Languages
+
 - [C](https://github.com/ykws/hello-clang)
 - [Carbon](https://github.com/ykws/hello-carbon)
 - [Crystal](https://github.com/ykws/hello-crystral)
@@ -27,3 +31,5 @@
 - [Next.js](https://github.com/ykws/hello-next)
 - [Nuxt.js](https://github.com/ykws/hello-nuxtjs)
 - [React Native](https://github.com/ykws/hello-react-native)
+
+[^the-programatic-programmer]: Hunt, A., & Thomas, D. (1999). The Pragmatic Programmer: from journeyman to master. Addison-Wesley Professional.
