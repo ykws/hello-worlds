@@ -7,6 +7,7 @@
 
 - [C](https://github.com/ykws/hello-clang)
 - [Carbon](https://github.com/ykws/hello-carbon)
+- [COBOL](https://github.com/ykws/hello-cobol)
 - [Crystal](https://github.com/ykws/hello-crystral)
 - [Go](https://github.com/ykws/hello-golang)
 - [Haskell](https://github.com/ykws/hello-haskell)
